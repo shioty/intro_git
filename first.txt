@@ -5,3 +5,4 @@ hogehoge
 fugafuga
 
 git rm
+git status

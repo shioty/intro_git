@@ -6,3 +6,4 @@ fugafuga
 
 git rm
 git status
+3/30

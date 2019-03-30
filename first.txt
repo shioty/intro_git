@@ -6,5 +6,7 @@ fugafuga
 
 
 git status
-3/30
 やったどおおおおおおおおお！！！
+
+git diff
+
